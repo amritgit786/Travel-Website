@@ -1,1 +1,3 @@
 # Travel-Website
+-> I have crafted this travel website using HTML and CSS3.
+-> I Used multiple css property like float, background property, transition, animaton etc...
